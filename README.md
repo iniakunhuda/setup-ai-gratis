@@ -2,8 +2,6 @@
 
 Kumpulan panduan setup (Bahasa Indonesia) untuk mendapatkan **akses AI coding gratis** dari berbagai provider. Semua panduan menargetkan **VSCode sebagai editor utama**, dengan riset docs terbaru per September 2026.
 
-> ⚠️ Free tier sering berubah — dua provider yang dulu populer sudah **tidak gratis lagi**: Sourcegraph Cody (jadi enterprise-only $16K/thn) dan Tabnine (jadi paid $39+/bln). Jangan ikut tutorial lama.
-
 ## Tabel Ringkasan
 
 Diurutkan dari **paling mudah diintegrasi + limit paling besar**:
