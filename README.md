@@ -1,4 +1,4 @@
-# Setup AI Gratis — Kumpulan Panduan Provider AI untuk Developer
+#  Kumpulan Panduan Setup Provider AI Gratis untuk Developer
 
 Kumpulan panduan setup (Bahasa Indonesia) untuk mendapatkan **akses AI coding gratis** dari berbagai provider. Semua panduan menargetkan **VSCode sebagai editor utama**, dengan riset docs terbaru per September 2026.
 
